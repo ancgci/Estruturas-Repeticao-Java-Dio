@@ -4,7 +4,7 @@ Projeto didático desenvolvido no aprendizado da linguagem Java com tutoria [Gle
 
 ## Introdução
 
-Atividade prática para simulação de estruturas de repetição em Java.
+Atividade para simulação de estruturas de repetição em Java.
 
 ## Tecnologia Utilizada
 
